@@ -19,6 +19,7 @@ DOMAIN,firebaseinstallations.googleapis.com
 
 
 ## Games
+PROCESS-NAME-REGEX,.*bf3.*
 PROCESS-NAME-REGEX,.*bf4.*
 PROCESS-NAME-REGEX,.*bfv.*
 PROCESS-NAME-REGEX,.*EscapeFromTarkov.*
