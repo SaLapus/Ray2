@@ -22,6 +22,7 @@ DOMAIN,firebaseinstallations.googleapis.com
 PROCESS-NAME-REGEX,.*bf3.*
 PROCESS-NAME-REGEX,.*bf4.*
 PROCESS-NAME-REGEX,.*bfv.*
+PROCESS-NAME-REGEX,.*BF2042.*
 PROCESS-NAME-REGEX,.*bf6.*
 PROCESS-NAME-REGEX,.*EscapeFromTarkov.*
 PROCESS-NAME-REGEX,.*helldivers2.*
