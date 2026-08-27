@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,ficbook.net
 DOMAIN-KEYWORD,googlevideo
+DOMAIN,pnpm.io
 
 # It can send udp in login
 DOMAIN-SUFFIX,openai.com
