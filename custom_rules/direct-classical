@@ -30,6 +30,7 @@ PROCESS-NAME-REGEX,.*Foxfole.*
 
 ## Programs
 PROCESS-NAME-REGEX,.*steam.*
+PROCESS-NAME-REGEX,.*steamwebhelper.*
 PROCESS-NAME-REGEX,.*BsgLauncher.*
 
 
